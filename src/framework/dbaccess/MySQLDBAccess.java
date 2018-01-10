@@ -36,7 +36,7 @@ public class MySQLDBAccess {
 	String dbUser;
 	String dbPassword;
 	String dbURL;
-	String DBConfigFileName = "dbConfig.properties";
+	String DBConfigFileName = "config.properties";
 	Connection connMySQLDB = null;
 	Statement stmt;
 	ResultSet rs;

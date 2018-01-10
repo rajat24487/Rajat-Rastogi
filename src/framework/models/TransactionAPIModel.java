@@ -25,7 +25,5 @@ public class TransactionAPIModel {
 	public void setParentId(Long parent_id) {
 		this.parent_id = parent_id;
 	}
-
-
 	
 }

@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Iterator;
 
 /**
- * This class class has methods for loading properties file.
+ * This class  has methods for loading properties file.
   */
 public class TestUtil  {
 

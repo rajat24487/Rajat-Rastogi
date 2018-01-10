@@ -21,6 +21,7 @@ public class PayloadFormatter {
 		return TransactionModel;
 
 	}
+	
 	public TransactionAPIModel SaveTransactionPayloadWithoutParent(Properties prop) {
 
 		TransactionAPIModel TransactionModel = new TransactionAPIModel();
