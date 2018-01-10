@@ -1,0 +1,5 @@
+TCID,testDescription,amount,type,parent_id,id
+TC:1,Save tansaction,1000,car,10,11
+TC:2,Save tansaction without parent,1500,shopping,,12
+TC:3,Get transaction id based on type,,car,,
+TC:4,Get sum based on id,,,,10
